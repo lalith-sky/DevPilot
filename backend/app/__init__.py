@@ -1,0 +1,1 @@
+"""HackNova API application package."""
